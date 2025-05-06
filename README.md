@@ -12,7 +12,7 @@ Former QA lead turned ML practitioner — bringing 12+ years of software deliver
 Now applying machine learning to solve real-world challenges in healthcare, education, and smart mobility.  
 Skilled in transforming messy, high-stakes data into actionable insights using deep learning, computer vision, and NLP.
 
-🧠 I specialize in:
+🎯 I specialize in:
 - Predictive modeling in healthcare and education  
 - Real-time computer vision with anomaly detection  
 - Deep learning for NLP and sentiment analysis  
@@ -62,29 +62,65 @@ Skilled in transforming messy, high-stakes data into actionable insights using d
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### 🔍 Classical Machine Learning  
-Logistic Regression • Ridge • Lasso • ElasticNet • Decision Trees • Random Forest • SVM
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-blue?style=flat-square)
+![Ridge](https://img.shields.io/badge/Ridge-orange?style=flat-square)
+![Lasso](https://img.shields.io/badge/Lasso-orange?style=flat-square)
+![ElasticNet](https://img.shields.io/badge/ElasticNet-teal?style=flat-square)
+![Decision Trees](https://img.shields.io/badge/Decision%20Trees-green?style=flat-square)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-darkgreen?style=flat-square)
+![SVM](https://img.shields.io/badge/SVM-black?style=flat-square)
 
 ### 🤖 Deep Learning  
-ANN • CNN • LSTM • ShuffleNet • Temporal CNN • TCGCN  
-**Frameworks**: ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![ANN](https://img.shields.io/badge/ANN-27338e?style=flat-square&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-0059b3?style=flat-square&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM-4caf50?style=flat-square&logoColor=white)
+![ShuffleNet](https://img.shields.io/badge/ShuffleNet-ff9800?style=flat-square&logoColor=white)
+![Temporal CNN](https://img.shields.io/badge/Temporal%20CNN-9c27b0?style=flat-square&logoColor=white)
+![TCGCN](https://img.shields.io/badge/TCGCN-607d8b?style=flat-square&logoColor=white)
+
+**Frameworks**:  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
-### 💬 Natural Language Processing  
-DistilBERT • MiniLM • Hugging Face Transformers • NLTK • SMOTE • LDA • Sentiment Analysis
 
-### 👁️ Computer Vision  
-YOLOv5 • YOLOv8 • Mask R-CNN • FER • FaceNet • OpenCV • DeepSORT
+### 💬 Natural Language Processing
+![DistilBERT](https://img.shields.io/badge/DistilBERT-4A90E2?style=flat-square)
+![MiniLM](https://img.shields.io/badge/MiniLM-8e44ad?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+![NLTK](https://img.shields.io/badge/NLTK-0277BD?style=flat-square)
+![SMOTE](https://img.shields.io/badge/SMOTE-6D4C41?style=flat-square)
+![LDA](https://img.shields.io/badge/LDA-2E7D32?style=flat-square)
+![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-F06292?style=flat-square)
 
-### 🧠 Specialized Learning  
-**Active Feature Elicitation (AFE)** – For selective feature acquisition in healthcare/clinical datasets
 
-### 📊 Data Visualization & BI  
-Matplotlib • Seaborn • Plotly • Power BI • Tableau
+### 👁️ Computer Vision
+![YOLOv5](https://img.shields.io/badge/YOLOv5-000000?style=flat-square)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-212121?style=flat-square)
+![Mask R-CNN](https://img.shields.io/badge/Mask%20R--CNN-00796B?style=flat-square)
+![FER](https://img.shields.io/badge/FER-0097A7?style=flat-square)
+![FaceNet](https://img.shields.io/badge/FaceNet-00695C?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C2D91?style=flat-square&logo=opencv&logoColor=white)
+![DeepSORT](https://img.shields.io/badge/DeepSORT-455A64?style=flat-square)
 
-### ☁️ Big Data & Pipelines  
-Apache Spark • PySpark • Snowflake
 
+### 🧠 Specialized Learning
+![AFE](https://img.shields.io/badge/Active%20Feature%20Elicitation-6A1B9A?style=flat-square)  
+Framework for selective feature acquisition in structured & image-based clinical data
+
+
+### 📊 Data Visualization & BI
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E4053?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+
+### ☁️ Big Data & Pipelines
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-FF7043?style=flat-square)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=flat-square&logo=snowflake&logoColor=white)
 ---
 
 ## 📫 Let's Connect
