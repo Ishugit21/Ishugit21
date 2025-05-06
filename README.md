@@ -83,7 +83,6 @@ Skilled in transforming messy, high-stakes data into actionable insights using d
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
-
 ### 💬 Natural Language Processing
 ![DistilBERT](https://img.shields.io/badge/DistilBERT-4A90E2?style=flat-square)
 ![MiniLM](https://img.shields.io/badge/MiniLM-8e44ad?style=flat-square)
@@ -92,7 +91,6 @@ Skilled in transforming messy, high-stakes data into actionable insights using d
 ![SMOTE](https://img.shields.io/badge/SMOTE-6D4C41?style=flat-square)
 ![LDA](https://img.shields.io/badge/LDA-2E7D32?style=flat-square)
 ![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-F06292?style=flat-square)
-
 
 ### 👁️ Computer Vision
 ![YOLOv5](https://img.shields.io/badge/YOLOv5-000000?style=flat-square)
@@ -103,11 +101,9 @@ Skilled in transforming messy, high-stakes data into actionable insights using d
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C2D91?style=flat-square&logo=opencv&logoColor=white)
 ![DeepSORT](https://img.shields.io/badge/DeepSORT-455A64?style=flat-square)
 
-
 ### 🧠 Specialized Learning
 ![AFE](https://img.shields.io/badge/Active%20Feature%20Elicitation-6A1B9A?style=flat-square)  
 Framework for selective feature acquisition in structured & image-based clinical data
-
 
 ### 📊 Data Visualization & BI
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
@@ -116,7 +112,6 @@ Framework for selective feature acquisition in structured & image-based clinical
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-
 ### ☁️ Big Data & Pipelines
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-FF7043?style=flat-square)
@@ -124,6 +119,5 @@ Framework for selective feature acquisition in structured & image-based clinical
 ---
 
 ## 📫 Let's Connect
-
 📬 iswaryasai.2147@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/revathy-iswarya-sekaran-b53b2a226/)
