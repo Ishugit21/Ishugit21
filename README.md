@@ -23,19 +23,23 @@ Skilled in transforming messy, high-stakes data into actionable insights using d
 ## 🚀 My Applied AI Projects
 
 - **🧬 Parkinson’s Disease Prediction**  
-  Predicted `total_UPDRS` using SVM, ElasticNet, ANN, LSTM, and others  
+  Predicted `total_UPDRS` scores using voice biomarkers from 5,800+ biomedical recordings.  
+  Developed and tuned regression models (SVM, ElasticNet, Random Forest, ANN, LSTM) to assess disease progression.  
   [🔗 GitHub](https://github.com/Ishugit21/Parkinsons-Disease-Prediction)
 
 - **🗣️ Mental Health NLP**  
-  Fine-tuned DistilBERT and MiniLM with SMOTE and LDA topic modeling  
+  Fine-tuned DistilBERT and MiniLM on Reddit and therapy-based mental health datasets.  
+  Applied Class weights and SMOTE to balance classes and LDA for unsupervised topic discovery.    
   [🔗 GitHub](https://github.com/Ishugit21/Sentiment-Analysis)
 
 - **🎓 Student Engagement Estimation**  
-  CNN + FER on DAiSEE dataset with FaceNet and OpenCV  
+  Built a CNN + FER (Facial Emotion Recognition) pipeline on DAiSEE video frames.  
+  Used OpenCV for preprocessing and FaceNet for facial feature extraction to classify engagement levels. 
   [🔗 GitHub](https://github.com/Ishugit21/Student-Engagement-Prediction)
 
 - **🚗 Object & Anomaly Detection in Autonomous Driving**  
-  YOLOv5/YOLOv8 on Waymo data + confidence-based anomaly detection  
+  Applied YOLOv5 and YOLOv8 on the Waymo dataset to detect vehicles and pedestrians.  
+  Designed logic to flag scene anomalies using object presence and confidence thresholds. 
   [🔗 GitHub](https://github.com/Ishugit21/Objection-detection-and-tracking)
 
 - **🧪 Active Feature Elicitation in Healthcare**  
@@ -43,7 +47,8 @@ Skilled in transforming messy, high-stakes data into actionable insights using d
   [🔗 GitHub](https://github.com/Ishugit21/Active-Feature-Elicitation)
 
 - **🚦 Traffic Flow Prediction from Video**  
-  YOLOv5 + Mask R-CNN + DeepSORT + TCGCN + synthetic rain  
+  Extracted vehicle flow data using YOLOv5 + Mask R-CNN + DeepSORT from UK surveillance videos.  
+  Trained a TCGCN to predict vehicle counts under varying weather (clear vs rain) with OpenCV-simulated augmentation. 
   [🔗 GitHub](https://github.com/Ishugit21/Traffic-flow-prediction)
 
 ---
