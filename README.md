@@ -1,18 +1,17 @@
 
 # 👋 Hi, I'm Revathy Iswarya
 
-🎓 **Data Science Grad Student @ University of Michigan–Dearborn**  
-🧪 **Ex-QA Leader** | 🔁 12+ yrs in Enterprise QA → Now Building AI-Powered Systems with ML, DL, and NLP
+**Data Science Grad Student @ University of Michigan–Dearborn**  
+**Ex-QA Leader** | 12+ yrs in Enterprise QA → Now Building AI-Powered Systems with ML, DL, and NLP.
 
 ---
 
-## 💼 About Me
-
+## About Me
 Former QA lead turned ML practitioner — bringing 12+ years of software delivery experience into the world of AI.  
 Now applying machine learning to solve real-world challenges in healthcare, education, and smart mobility.  
 Skilled in transforming messy, high-stakes data into actionable insights using deep learning, computer vision, and NLP.
 
-🎯 I specialize in:
+I specialize in:
 - Predictive modeling in healthcare and education  
 - Real-time computer vision with anomaly detection  
 - Deep learning for NLP and sentiment analysis  
