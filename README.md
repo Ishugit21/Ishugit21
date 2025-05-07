@@ -34,12 +34,12 @@ Skilled in transforming messy, high-stakes data into actionable insights using d
 
 - **🎓 Student Engagement Estimation**  
   Built a CNN + FER (Facial Emotion Recognition) pipeline on DAiSEE video frames.  
-  Used OpenCV for preprocessing and FaceNet for facial feature extraction to classify engagement levels. 
+  Used OpenCV for preprocessing and FaceNet for facial feature extraction to classify engagement levels.            
   [🔗 GitHub](https://github.com/Ishugit21/Student-Engagement-Prediction)
 
 - **🚗 Object & Anomaly Detection in Autonomous Driving**  
   Applied YOLOv5 and YOLOv8 on the Waymo dataset to detect vehicles and pedestrians.  
-  Designed logic to flag scene anomalies using object presence and confidence thresholds. 
+  Designed logic to flag scene anomalies using object presence and confidence thresholds.             
   [🔗 GitHub](https://github.com/Ishugit21/Objection-detection-and-tracking)
 
 - **🧪 Active Feature Elicitation in Healthcare**  
@@ -48,7 +48,7 @@ Skilled in transforming messy, high-stakes data into actionable insights using d
 
 - **🚦 Traffic Flow Prediction from Video**  
   Extracted vehicle flow data using YOLOv5 + Mask R-CNN + DeepSORT from UK surveillance videos.  
-  Trained a TCGCN to predict vehicle counts under varying weather (clear vs rain) with OpenCV-simulated augmentation. 
+  Trained a TCGCN to predict vehicle counts under varying weather (clear vs rain) with OpenCV-simulated augmentation.            
   [🔗 GitHub](https://github.com/Ishugit21/Traffic-flow-prediction)
 
 ---
