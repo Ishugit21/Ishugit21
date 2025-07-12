@@ -45,7 +45,7 @@ I specialize in:
   AFE to reduce data acquisition in PIMA, Breast Cancer, and X-ray datasets  
   [🔗 GitHub](https://github.com/Ishugit21/Active-Feature-Elicitation)
 
-- **🚦 Traffic Flow Prediction from Video**  
+- **🚦 Spatio-Temporal Traffic Flow Prediction Using Surveillance Cameras**  
   Extracted vehicle flow data using YOLOv5 + Mask R-CNN + DeepSORT from UK surveillance videos.  
   Trained a TCGCN to predict vehicle counts under varying weather (clear vs rain) with OpenCV-simulated augmentation.            
   [🔗 GitHub](https://github.com/Ishugit21/Traffic-flow-prediction)
