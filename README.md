@@ -31,7 +31,7 @@ I specialize in:
   Applied Class weights and SMOTE to balance classes and LDA for unsupervised topic discovery.    
   [🔗 GitHub](https://github.com/Ishugit21/Sentiment-Analysis)
 
-- **🎓 Student Engagement Estimation**  
+- **🎓 Student Engagement Prediction**  
   Built a CNN + FER (Facial Emotion Recognition) pipeline on DAiSEE video frames.  
   Used OpenCV for preprocessing and FaceNet for facial feature extraction to classify engagement levels.            
   [🔗 GitHub](https://github.com/Ishugit21/Student-Engagement-Prediction)
