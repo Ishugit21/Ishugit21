@@ -22,7 +22,7 @@ I specialize in:
 ## 🚀 My Applied AI Projects
 
 - **🧬 Parkinson’s Disease Prediction**  
-  Predicted `total_UPDRS` scores using voice biomarkers from 5,800+ biomedical recordings.  
+  Predicted `total_UPDRS` scores using vocal features from 5,800+ recordings.  
   Developed and tuned regression models (SVM, ElasticNet, Random Forest, ANN, LSTM) to assess disease progression.  
   [🔗 GitHub](https://github.com/Ishugit21/Parkinsons-Disease-Prediction)
 
