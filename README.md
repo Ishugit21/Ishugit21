@@ -42,12 +42,13 @@ I specialize in:
   [🔗 GitHub](https://github.com/Ishugit21/Objection-detection-and-tracking)
 
 - **🧪 Active Feature Elicitation in Healthcare**  
-  AFE to reduce data acquisition in PIMA, Breast Cancer, and X-ray datasets  
+  Implemented AFE to reduce redundant data acquisition in PIMA, Breast Cancer, and COVID-19 X-ray datasets.
+  Used Logistic Regression, Random Forest, ANN, and CNN to compare performance under AFE constraints.  
   [🔗 GitHub](https://github.com/Ishugit21/Active-Feature-Elicitation)
 
 - **🚦 Spatio-Temporal Traffic Flow Prediction Using Surveillance Cameras**  
-  Extracted vehicle flow data using YOLOv5 + Mask R-CNN + DeepSORT from UK surveillance videos.  
-  Trained a TCGCN to predict vehicle counts under varying weather (clear vs rain) with OpenCV-simulated augmentation.            
+  Extracted vehicle movement data using YOLOv5 + Mask R-CNN + DeepSORT from UK highway surveillance videos.  
+  Trained a Temporal Convolutional Graph Convolutional Network to predict traffic flow under varying weather(clear vs. rain), with simulated augmentation using OpenCV.
   [🔗 GitHub](https://github.com/Ishugit21/Traffic-flow-prediction)
 
 ---
