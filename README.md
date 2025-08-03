@@ -107,7 +107,7 @@ I specialize in:
 ![DeepSORT](https://img.shields.io/badge/DeepSORT-455A64?style=flat-square)
 
 ### 🧠 Specialized Learning
-![AFE](https://img.shields.io/badge/Active%20Feature%20Elicitation-6A1B9A?style=flat-square)  
+![AFE](https://img.shields.io/badge/Active%20Feature%20Elicitation-6A1B9A?style=flat-square)
 Framework for selective feature acquisition in structured & image-based clinical data
 
 ### 📊 Data Visualization & BI
