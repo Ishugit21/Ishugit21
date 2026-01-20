@@ -120,7 +120,6 @@ Framework for selective feature acquisition in structured & image-based clinical
 ### ☁️ Big Data & Pipelines
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-FF7043?style=flat-square)
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=flat-square&logo=snowflake&logoColor=white)
 ---
 
 ## 📫 Let's Connect
