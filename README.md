@@ -107,7 +107,7 @@ I specialize in:
 
 ### 🧠 Specialized Learning
 ![AFE](https://img.shields.io/badge/Active%20Feature%20Elicitation-6A1B9A?style=flat-square)
-Framework for selective feature acquisition in structured & image-based clinical data
+Reinforcement Learning - Framework for selective feature acquisition in structured & image-based clinical data
 
 ### 📊 Data Visualization & BI
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
